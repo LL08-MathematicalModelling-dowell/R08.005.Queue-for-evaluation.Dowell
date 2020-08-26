@@ -1,5 +1,5 @@
 After selection,profiles will get evaluated by evaluators by whom they have been followed.
 Since each profile is followed by 10 evaluators, the selected profile will be assigned to one of those evaluators only for evaluation.
-Initially, the assignment for evaluation can be done simply by assigning serieswise as 1st selected profile to 1st eligible evaluator , 2nd selected profile to 2nd eligible evaluator and so on.
+Initially, the assignment for evaluation can be done simply by assigning serieswise as 1st selected profile to 1st eligible evaluator , 2nd selected profile to 2nd eligible evaluator who has not been assigned with any profile and so on.
 After some evaluations, the idea about their performance can be noted.
 And using that information, Assignment Problem can be used to assign Profiles to evaluators in order to get optimised results.
